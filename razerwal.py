@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import colorsys
 import random
 import time
