@@ -1,5 +1,5 @@
 # openrazer_pywal
-Python script, which generates colorscheme of current wallpaper usin pywal, and applies to all Razer Chroma devices which are connected, using openrazer.
+Python script, which generates colorscheme of current wallpaper using pywal, and applies to all Razer Chroma devices which are connected, using openrazer.
 # Requirements
 Python3
 PyWal
